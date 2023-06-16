@@ -58,4 +58,4 @@ Finally, go to the 'Files' section on the left side bar and dowload the file nam
 
 ### Demo application
 
-Use the files on `demo_data` folder and invoice values from this user guide to run the application.
+Use the files on `data_demo` folder and invoice values from this user guide to run the application.
