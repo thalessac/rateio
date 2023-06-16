@@ -1,4 +1,4 @@
-# How to run script
+# How to run the script
 
 This script runs at Google Colab Virtual Machine. To access it, you'll need to create or log in into your Google Account. Code is executed in a virtual machine private to your account.
 
