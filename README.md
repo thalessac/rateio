@@ -54,7 +54,7 @@ After a successful run, you'll see an output as follows, describing your input v
 
 ![image](https://github.com/thalessac/rateio/assets/67764861/aaee7e69-d0b7-4f12-a8fb-1c870170e838)
 
-Finally, go to the 'Files' section on the left side bar and dowload the file named 'rateio.xlsx'. If you don't immediately see it, right click on the 'Files' section and press 'refresh' button.
+Finally, go to the 'Files' section on the left side bar and dowload the file named `rateio.xlsx`. If you don't immediately see it, right click on the 'Files' section and press 'refresh' button.
 
 ### Demo application
 
