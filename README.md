@@ -39,7 +39,7 @@ You can also directly upload your files on 'Files' section in the left side bar 
 
 It is possible that when joining information from `rateio.xlsx` & `exclusão.xlsx` with `cadastrão.xlsx`, some people, for different reasons, are not assigned to any CC. In such cases you'll be requested to manually input a CC value for this person. Write down the CC value on the corresponding field and press 'Enter' to continue.
 
-![image](https://github.com/thalessac/rateio/assets/67764861/7ec761e6-5353-4a41-a44e-cdc4cc832ce3)
+![image](https://github.com/thalessac/rateio/assets/67764861/0b273db3-4f5b-454c-b08f-9983217f06c8)
 
 ### Running the script
 
