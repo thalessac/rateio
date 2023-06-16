@@ -1,7 +1,10 @@
-# How to run this script
+# How to run script
 
-This script runs at Google Colab virtual machine. In order to do so, you'll need to log in into your Google Account. 
-On `rateio.ipynb` file, click on 'Open in Colab' button in the very top of the file. You'll be redirected to the Notebook where you'll be able to run it.
+This script runs at Google Colab Virtual Machine. To access it, you'll need to create or log in into your Google Account. Code is executed in a virtual machine private to your account.
+
+On `rateio.ipynb` Notebook file, click on 'Open in Colab' button in the very top of the file. You'll be redirected to the Notebook environment where you'll be able to run it.
+
+All files and variables processed during runtime are removed when you close your session.
 
 ### User inputs
 
@@ -19,7 +22,8 @@ Insert them in the forms you'll find on the top of the Notebook, as they appear 
 
 
 **2.   Excel files:**
-when you execute the code, you'll be requested to upload the following files:
+
+When you execute the code, you'll be requested to upload the following files:
 
 *   `exclusão.xlsx`: required columns ("matrícula", "funcionário", "total bilhete", "compõe aviso de crédito")
 *   `itens_processados.xlsx`: required columns ("matrícula", "funcionário", "total bilhete")
@@ -29,7 +33,7 @@ Note that file and tables headers MUST follow the above mentioned predefined nam
 
 Beware that the headers of your tables MUST be on the first row of the Excel. Also make sure that your table is always located at first Row, Column and Sheet of the Excel file. The headers of your tables must be plain text, e.g. no line breaks allowed.
 
-You can also directly upload your files on 'Files' section in the left side bar of this Notebook.
+You can also directly upload your files on 'Files' section in the left side bar of the Notebook.
 
 **3.   Missing CCs:**
 
