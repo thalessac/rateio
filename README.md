@@ -27,7 +27,7 @@ When you execute the code, you'll be requested to upload the following files:
 
 *   `exclusão.xlsx`: required columns ("matrícula", "funcionário", "total bilhete", "compõem aviso de crédito?")
 *   `itens_processados.xlsx`: required columns ("matrícula", "funcionário", "total bilhete")
-*   `cadastrão.xlsx`: required columns ("cpf", "cc")
+*   `cadastrão.xlsx`: required columns ("cpf", "centro de resultado - código")
 
 Note that file and tables headers MUST follow the above mentioned predefined names, otherwise the script will fail. There is no problem having more columns in your input files, since the mandatory ones are included. Header and file names are not case sensitive, so just make sure the spelling is correct.
 
