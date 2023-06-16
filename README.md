@@ -25,7 +25,7 @@ Insert them in the forms you'll find on the top of the Notebook, as they appear 
 
 When you execute the code, you'll be requested to upload the following files:
 
-*   `exclusão.xlsx`: required columns ("matrícula", "funcionário", "total bilhete", "compõe aviso de crédito")
+*   `exclusão.xlsx`: required columns ("matrícula", "funcionário", "total bilhete", "compõem aviso de crédito?")
 *   `itens_processados.xlsx`: required columns ("matrícula", "funcionário", "total bilhete")
 *   `cadastrão.xlsx`: required columns ("cpf", "cc")
 
@@ -39,7 +39,7 @@ You can also directly upload your files on 'Files' section in the left side bar 
 
 It is possible that when joining information from `rateio.xlsx` & `exclusão.xlsx` with `cadastrão.xlsx`, some people, for different reasons, are not assigned to any CC. In such cases you'll be requested to manually input a CC value for this person. Write down the CC value on the corresponding field and press 'Enter' to continue.
 
-![image](https://github.com/thalessac/rateio/assets/67764861/3e9b791b-cd93-494d-8179-96de409571e0)
+![image](https://github.com/thalessac/rateio/assets/67764861/7ec761e6-5353-4a41-a44e-cdc4cc832ce3)
 
 ### Running the script
 
@@ -55,3 +55,7 @@ After a successful run, you'll see an output as follows, describing your input v
 ![image](https://github.com/thalessac/rateio/assets/67764861/aaee7e69-d0b7-4f12-a8fb-1c870170e838)
 
 Finally, go to the 'Files' section on the left side bar and dowload the file named 'rateio.xlsx'. If you don't immediately see it, right click on the 'Files' section and press 'refresh' button.
+
+### Demo application
+
+Use the files on `demo_data` folder and invoice values from this user guide to run the application.
